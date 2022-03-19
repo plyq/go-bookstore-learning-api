@@ -1,2 +1,2 @@
 # go-bookstore-learning-api
-First Go project
+Users API for bookstore learning project
